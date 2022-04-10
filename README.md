@@ -27,7 +27,7 @@ Minimal Snap Trajectory Generation
 
 Bezier Curve Optimization with hard constraints	 
 
-
+![Project List](https://github.com/yinflight/motion_planner_GaoFei/blob/main/chap6/image.png)
 	
 **Project 7	PYTHON**
 
