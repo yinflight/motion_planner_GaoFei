@@ -38,7 +38,7 @@ RTDP algorithm
 **Project 8	MATLAB**	
 
 MPC	 	
-
+![Project List](https://github.com/yinflight/motion_planner_GaoFei/blob/main/chap8/image.png)
 
 ![Project List](https://github.com/yinflight/motion_planner_GaoFei/blob/main/projectList.png)
 
